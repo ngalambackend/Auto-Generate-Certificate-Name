@@ -1,0 +1,23 @@
+{
+  "name": "auto-generate-name-to-certificate",
+  "version": "1.0.0",
+  "description": "### How to use?",
+  "main": "app.js",
+  "dependencies": {
+    "jimp": "^0.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngalambackend/Auto-Generate-Name-to-Sertificate.git"
+  },
+  "author": "Thariq Alfa Benriska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngalambackend/Auto-Generate-Name-to-Sertificate/issues"
+  },
+  "homepage": "https://github.com/ngalambackend/Auto-Generate-Name-to-Sertificate#readme"
+}
