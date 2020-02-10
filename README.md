@@ -1,4 +1,4 @@
-# Auto Generate Name to Sertificate
+# Auto Generate Certificate Name
 
 ## How to use?
 
@@ -13,4 +13,4 @@
 ![](https://i.ibb.co/zNsnp86/template.png)
 
 ### After
-![](https://i.ibb.co/XJjW18t/1-nbc-aniv-Thariq-Alfa-Benriska.png))
+![](https://i.ibb.co/XJjW18t/1-nbc-aniv-Thariq-Alfa-Benriska.png)
