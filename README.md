@@ -2,7 +2,7 @@
 
 ## How to use?
 
-1. npm install jimp
+1. npm install
 2. node app.js (run)
 3. name.json (list name will append to certificate)
 4. Certificate template (template.png)
