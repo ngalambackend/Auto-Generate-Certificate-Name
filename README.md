@@ -16,4 +16,4 @@
 ![](https://i.ibb.co/XJjW18t/1-nbc-aniv-Thariq-Alfa-Benriska.png)
 
 # Contribution
-Klik kontribusi ke [Auto Generate Certificate Name]
+Klik kontribusi ke [Auto Generate Certificate Name](https://github.com/ngalambackend/Auto-Generate-Certificate-Name/blob/master/Contribution.md)
