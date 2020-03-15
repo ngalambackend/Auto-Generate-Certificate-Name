@@ -24,6 +24,7 @@ $ git push origin nama-branch
 ```
 ### :five: Membuat Pull Request
 Buat `pull request baru` pada repository [Auto Generate Certificate Name](https://github.com/ngalambackend/Auto-Generate-Certificate-Name) dengan cara
+
     * Tekan tombol `pull request`
     * Pilih branch `master` sebagai `base` dan branch `anda` sebagai `compare`
     * Submit `pull request`
